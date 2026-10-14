@@ -1,314 +1,313 @@
 const SiteConfig = {
 
-  business: {
-  name: "Shree Karni Kripa Trading",
-  fullName: "Shree Karni Kripa Trading",
-  tagline: "Authorised Distributor of Uno Minda 2-Wheeler Batteries in Bikaner",
-  shortTagline: "BIKANER",
-  phone: "+918319766734",
-  phoneDisplay: "+91 83197 66734",
-  phoneDisplayShort: "83197 66734",
-  email: "",
-  address: {
-    line1: "Beechwal",
-    line2: "Bikaner, Rajasthan 334001",
-    full: "Beechwal, Bikaner, Rajasthan 334001"
-  },
-  hours: {
-    days: "Monday to Saturday",
-    time: "9:00 AM - 7:00 PM",
-    display: "Monday to Saturday | 9:00 AM - 7:00 PM"
-  },
-  logo: { emoji: "", path: null, alt: "Shree Karni Kripa Trading Logo" },
-  favicon: "assets/favicon.png",
-  social: {
-    whatsapp: "https://wa.me/918319766734"
-  },
-  mapsUrl: "https://maps.app.goo.gl/TdapyX378CEEi8C76"
+  business: {
+  name: "Shree Karni Kripa Trading",
+  fullName: "Shree Karni Kripa Trading",
+  tagline: "Authorised Distributor of Uno Minda 2-Wheeler Batteries in Bikaner",
+  shortTagline: "BIKANER",
+  phone: "+918319766734",
+  phoneDisplay: "+91 83197 66734",
+  phoneDisplayShort: "83197 66734",
+  email: "",
+  address: {
+    line1: "Beechwal",
+    line2: "Bikaner, Rajasthan 334001",
+    full: "Beechwal, Bikaner, Rajasthan 334001"
+  },
+  hours: {
+    days: "Monday to Saturday",
+    time: "9:00 AM - 7:00 PM",
+    display: "Monday to Saturday | 9:00 AM - 7:00 PM"
+  },
+  logo: { emoji: "", path: null, alt: "Shree Karni Kripa Trading Logo" },
+  favicon: "assets/favicon.png",
+  social: {
+    whatsapp: "https://wa.me/918319766734"
+  },
+  mapsUrl: "https://maps.app.goo.gl/TdapyX378CEEi8C76"
 },
 
 seo: {
-    title: "Shree Karni Kripa Trading | Authorised Uno Minda 2-Wheeler Battery Distributor in Bikaner",
-    description: "Official authorised distributor of Uno Minda two-wheeler batteries in Bikaner, Rajasthan. Genuine VRLA & maintenance-free batteries for retailers. Serving Bikaner district.",
-    keywords: "Uno Minda battery Bikaner, 2 wheeler battery distributor Bikaner, Uno Minda authorised dealer Rajasthan, motorcycle battery wholesale Bikaner, scooter battery distributor",
-    author: "Shree Karni Kripa Trading",
-    ogImage: "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=1200&h=630&fit=crop",
-    canonical: "https://shreekarnikripatrading.com/",
-    robots: "index, follow"
-  },
+  title: "Authorised Uno Minda Battery Distributor in Bikaner | Shree Karni Kripa Trading",
+  description: "Looking for genuine Uno Minda 2-wheeler batteries in Bikaner? Shree Karni Kripa Trading is the official authorised wholesale distributor supplying 100% original VRLA batteries to retailers.",
+  keywords: "Uno Minda battery distributor Bikaner, genuine Uno Minda batteries Rajasthan, authorised 2-wheeler battery dealer Bikaner, wholesale motorcycle batteries Beechwal, original scooter battery supplier, 12MUX-5L battery wholesale, VRLA battery distributor",
+  author: "Shree Karni Kripa Trading",
+  ogImage: "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=1200&h=630&fit=crop",
+  canonical: "https://shreekarnikripatrading.com/",
+  robots: "index, follow, max-image-preview:large, max-snippet:-1"
+},
 
-  theme: {
-    primary: "#003366",
-    background: "#FFFFFF",
-    text: "#1A1A2E",
-    navBackground: "#FFFFFF",
-    navText: "#1A1A2E",
-    footerBackground: "#F8F9FA",
-    footerText: "#1A1A2E",
-    headingFont: "Oswald",
-    bodyFont: "Plus Jakarta Sans"
-  },
+  theme: {
+    primary: "#003366",
+    background: "#FFFFFF",
+    text: "#1A1A2E",
+    navBackground: "#FFFFFF",
+    navText: "#1A1A2E",
+    footerBackground: "#F8F9FA",
+    footerText: "#1A1A2E",
+    headingFont: "Oswald",
+    bodyFont: "Plus Jakarta Sans"
+  },
 
-  images: {
+  images: {
 // Hero - Clean professional automotive / battery related
-  hero: "https://plus.unsplash.com/premium_photo-1661963005592-182d602c6a3f?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  hero: "https://plus.unsplash.com/premium_photo-1661963005592-182d602c6a3f?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 
-  // About Us - Professional warehouse / distribution feel
-  about: "https://plus.unsplash.com/premium_photo-1682129768936-c5b7c3033cdc?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  // About Us - Professional warehouse / distribution feel
+  about: "https://plus.unsplash.com/premium_photo-1682129768936-c5b7c3033cdc?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 
-  // Why Partner With Us (Process section) - Business / partnership / reliability feel
-  process: "https://images.unsplash.com/photo-1672380135241-c024f7fbfa13?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  
-  gallery: [
-      "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&h=600&fit=crop"
-    ],
-    team: [],
-    testimonials: [],
-    trustAvatars: []
-  },
+  // Why Partner With Us (Process section) - Business / partnership / reliability feel
+  process: "https://images.unsplash.com/photo-1672380135241-c024f7fbfa13?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  
+  gallery: [
+      "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&h=600&fit=crop"
+    ],
+    team: [],
+    testimonials: [],
+    trustAvatars: []
+  },
 
-  content: {
-    nav: {
-      links: [
-        { label: "Home", href: "#" },
-        { label: "About", href: "#about" },
-        { label: "Products", href: "#products" },
-      ],
-      cta: "Contact Us"
-    },
+  content: {
+    nav: {
+      links: [
+        { label: "Home", href: "#" },
+        { label: "About", href: "#about" },
+        { label: "Products", href: "#products" },
+      ],
+      cta: "Contact Us"
+    },
 
-    hero: {
-      title: "Authorised Distributor of",
-      titleHighlight: "Uno Minda 2-Wheeler Batteries",
-      subtitle: "Shree Karni Kripa Trading is the authorised distributor of Uno Minda two-wheeler batteries in Bikaner, Rajasthan. We supply genuine VRLA & maintenance-free batteries exclusively to retailers.",
-      primaryCta: "Contact Us →",
-      secondaryCta: "View Products",
-      rating: "",
-      ratingText: "Serving Retailers in Bikaner District"
-    },
+    hero: {
+      title: "Authorised Distributor of",
+      titleHighlight: "Uno Minda 2-Wheeler Batteries",
+      subtitle: "Shree Karni Kripa Trading is the authorised distributor of Uno Minda two-wheeler batteries in Bikaner, Rajasthan. We supply genuine VRLA & maintenance-free batteries exclusively to retailers.",
+      primaryCta: "Contact Us →",
+      secondaryCta: "View Products",
+      rating: "",
+      ratingText: "Serving Retailers in Bikaner District"
+    },
 
-    stats: {
-      heading: "Authorised Uno Minda Partner in Bikaner",
-      items: [
-        { value: "Uno Minda", label: "Official Brand Partner" },
-        { value: "Bikaner", label: "Authorised Territory" },
-        { value: "Retailers", label: "Wholesale Only" }
-      ]
-    },
+    stats: {
+      heading: "Authorised Uno Minda Partner in Bikaner",
+      items: [
+        { value: "Uno Minda", label: "Official Brand Partner" },
+        { value: "Bikaner", label: "Authorised Territory" },
+        { value: "Retailers", label: "Wholesale Only" }
+      ]
+    },
 
-    about: {
-      eyebrow: "About Us",
-      title: "Your Trusted Uno Minda Battery Distributor in Bikaner",
-      paragraph1: "Shree Karni Kripa Trading is an authorised distributor of Uno Minda two-wheeler batteries in Bikaner, Rajasthan. We specialise in supplying genuine Valve Regulated Lead-Acid (VRLA) and maintenance-free batteries to retailers across the district.",
-      paragraph2: "Our focus is on authenticity, reliability and long-term partnership with retailers. Every battery we supply comes with the assurance of Uno Minda quality and official warranty support.",
-      features: [
-        { title: "Authorised Distributor:", text: "Genuine Uno Minda batteries with company warranty" },
-        { title: "Retailer Focused:", text: "We supply only to retailers and dealers" },
-        { title: "Local Presence:", text: "Based in Beechwal, Bikaner for quick support" }
-      ]
-    },
+    about: {
+      eyebrow: "About Us",
+      title: "Your Trusted Uno Minda Battery Distributor in Bikaner",
+      paragraph1: "Shree Karni Kripa Trading is an authorised distributor of Uno Minda two-wheeler batteries in Bikaner, Rajasthan. We specialise in supplying genuine Valve Regulated Lead-Acid (VRLA) and maintenance-free batteries to retailers across the district.",
+      paragraph2: "Our focus is on authenticity, reliability and long-term partnership with retailers. Every battery we supply comes with the assurance of Uno Minda quality and official warranty support.",
+      features: [
+        { title: "Authorised Distributor:", text: "Genuine Uno Minda batteries with company warranty" },
+        { title: "Retailer Focused:", text: "We supply only to retailers and dealers" },
+        { title: "Local Presence:", text: "Based in Beechwal, Bikaner for quick support" }
+      ]
+    },
 
-    services: {
-      title: "Uno Minda Battery Range We Distribute",
-      subtitle: "Complete range of genuine Uno Minda VRLA two-wheeler batteries for retailers.",
-      items: [
-        { title: "12MUX-2.5L", description: "Capacity: 2.5 Ah | Type: Ultimo | Technology: VRLA" },
-        { title: "12MUXA-4L", description: "Capacity: 3 Ah | Type: Ultimo | Technology: VRLA" },
-        { title: "12MUXA-5L", description: "Capacity: 4 Ah / 4.2 Ah | Type: Ultimo | Technology: VRLA" },
-        { title: "12MUX-5L", description: "Capacity: 5 Ah | Type: Ultimo | Technology: VRLA" },
-        { title: "12MUX-7R", description: "Capacity: 7 Ah | Type: Ultimo | Technology: VRLA" },
-        { title: "12MUXA-9R", description: "Capacity: 8 Ah / 9 Ah | Type: Ultimo | Technology: VRLA" },
-        { title: "12MUX-9R", description: "Capacity: 9 Ah | Type: Ultimo | Technology: VRLA" },
-        { title: "12MUXA-4A", description: "Capacity: 4 Ah | Type: Ultimo Pro | Technology: VRLA" }
-      ],
-      cta: "Enquire as Retailer →"
-    },
+    services: {
+      title: "Uno Minda Battery Range We Distribute",
+      subtitle: "Complete range of genuine Uno Minda VRLA two-wheeler batteries for retailers.",
+      items: [
+        { title: "12MUX-2.5L", description: "Capacity: 2.5 Ah | Type: Ultimo | Technology: VRLA" },
+        { title: "12MUXA-4L", description: "Capacity: 3 Ah | Type: Ultimo | Technology: VRLA" },
+        { title: "12MUXA-5L", description: "Capacity: 4 Ah / 4.2 Ah | Type: Ultimo | Technology: VRLA" },
+        { title: "12MUX-5L", description: "Capacity: 5 Ah | Type: Ultimo | Technology: VRLA" },
+        { title: "12MUX-7R", description: "Capacity: 7 Ah | Type: Ultimo | Technology: VRLA" },
+        { title: "12MUXA-9R", description: "Capacity: 8 Ah / 9 Ah | Type: Ultimo | Technology: VRLA" },
+        { title: "12MUX-9R", description: "Capacity: 9 Ah | Type: Ultimo | Technology: VRLA" },
+        { title: "12MUXA-4A", description: "Capacity: 4 Ah | Type: Ultimo Pro | Technology: VRLA" }
+      ],
+      cta: "Enquire as Retailer →"
+    },
 
-    process: {
-      title: "Why Partner With Us",
-      subtitle: "Clear advantages for retailers in Bikaner.",
-      steps: [
-        {
-          number: "1",
-          title: "Genuine Products",
-          description: "100% original Uno Minda batteries with official warranty support."
-        },
-        {
-          number: "2",
-          title: "Authorised Territory",
-          description: "We are authorised to distribute in Bikaner district – clear and transparent."
-        },
-        {
-          number: "3",
-          title: "Retailer Support",
-          description: "Local presence in Beechwal for faster communication and reliable supply."
-        }
-      ],
-      cta: "Get in Touch"
-    },
+    process: {
+      title: "Why Partner With Us",
+      subtitle: "Clear advantages for retailers in Bikaner.",
+      steps: [
+        {
+          number: "1",
+          title: "Genuine Products",
+          description: "100% original Uno Minda batteries with official warranty support."
+        },
+        {
+          number: "2",
+          title: "Authorised Territory",
+          description: "We are authorised to distribute in Bikaner district – clear and transparent."
+        },
+        {
+          number: "3",
+          title: "Retailer Support",
+          description: "Local presence in Beechwal for faster communication and reliable supply."
+        }
+      ],
+      cta: "Get in Touch"
+    },
 
-    gallery: {
-      title: "Our Product Range",
-      subtitle: "Genuine Uno Minda two-wheeler batteries",
-      viewLabel: "View Details"
-    },
+    gallery: {
+      title: "Our Product Range",
+      subtitle: "Genuine Uno Minda two-wheeler batteries",
+      viewLabel: "View Details"
+    },
 
-    projects: {
-      seoTitle: "Products | Shree Karni Kripa Trading – Uno Minda Batteries Bikaner",
-      eyebrow: "Products",
-      title: "Uno Minda 2-Wheeler Batteries",
-      subtitle: "Authorised distribution of genuine Uno Minda VRLA batteries. Wholesale supply to retailers in Bikaner.",
-      viewLabel: "View Details",
-      items: [
-        {
-          title: "12MUX-2.5L",
-          location: "Ultimo Series",
-          description: "Capacity: 2.5 Ah | Technology: VRLA | Maintenance-free",
-          tags: ["Ultimo", "2.5 Ah"],
-          image: "assets/2.webp"
-        },
-        {
-          title: "12MUXA-4L",
-          location: "Ultimo Series",
-          description: "Capacity: 3 Ah | Technology: VRLA | Maintenance-free",
-          tags: ["Ultimo", "3 Ah"],
-          image: "assets/4l.jpg"
-        },
-      
-        {
-          title: "12MUXA-4A",
-          location: "Ultimo Pro Series",
-          description: "Capacity: 4 Ah | Technology: VRLA | Premium Ultimo Pro",
-          tags: ["Ultimo Pro", "4 Ah"],
-          image: "assets/4a.jpg"
-        },
+    projects: {
+      seoTitle: "Products | Shree Karni Kripa Trading – Uno Minda Batteries Bikaner",
+      eyebrow: "Products",
+      title: "Uno Minda 2-Wheeler Batteries",
+      subtitle: "Authorised distribution of genuine Uno Minda VRLA batteries. Wholesale supply to retailers in Bikaner.",
+      viewLabel: "View Details",
+      items: [
+        {
+          title: "12MUX-2.5L",
+          location: "Ultimo Series",
+          description: "Capacity: 2.5 Ah | Technology: VRLA | Maintenance-free",
+          tags: ["Ultimo", "2.5 Ah"],
+          image: "assets/2.webp"
+        },
+        {
+          title: "12MUXA-4L",
+          location: "Ultimo Series",
+          description: "Capacity: 3 Ah | Technology: VRLA | Maintenance-free",
+          tags: ["Ultimo", "3 Ah"],
+          image: "assets/4l.jpg"
+        },
+      
+        {
+          title: "12MUXA-4A",
+          location: "Ultimo Pro Series",
+          description: "Capacity: 4 Ah | Technology: VRLA | Premium Ultimo Pro",
+          tags: ["Ultimo Pro", "4 Ah"],
+          image: "assets/4a.jpg"
+        },
 
-        {
-          title: "12MUXA-5L",
-          location: "Ultimo Series",
-          description: "Capacity: 4 Ah / 4.2 Ah | Technology: VRLA | Maintenance-free",
-          tags: ["Ultimo", "4–4.2 Ah"],
-          image: "assets/5l.jpg"
-        },
-        {
-          title: "12MUX-5L",
-          location: "Ultimo Series",
-          description: "Capacity: 5 Ah | Technology: VRLA | Maintenance-free",
-          tags: ["Ultimo", "5 Ah"],
-          image: "assets/5lb.webp"
-        },
-        {
-          title: "12MUX-7R",
-          location: "Ultimo Series",
-          description: "Capacity: 7 Ah | Technology: VRLA | Maintenance-free",
-          tags: ["Ultimo", "7 Ah"],
-          image: "assets/7r.webp"
-        },
-        {
-          title: "12MUXA-9R",
-          location: "Ultimo Series",
-          description: "Capacity: 8 Ah / 9 Ah | Technology: VRLA | Maintenance-free",
-          tags: ["Ultimo", "8–9 Ah"],
-          image: "assets/9r.webp"
-        },
-        {
-          title: "12MUX-9R",
-          location: "Ultimo Series",
-          description: "Capacity: 9 Ah | Technology: VRLA | Maintenance-free",
-          tags: ["Ultimo", "9 Ah"],
-          image: "assets/9lb.webp"
-        },
-      ],
-      cta: {
-        title: "Looking for Genuine Uno Minda Batteries?",
-        subtitle: "We supply authorised Uno Minda two-wheeler batteries to retailers in Bikaner district.",
-        primary: "Contact Us",
-        secondaryPhone: true
-      }
-    },
+        {
+          title: "12MUXA-5L",
+          location: "Ultimo Series",
+          description: "Capacity: 4 Ah / 4.2 Ah | Technology: VRLA | Maintenance-free",
+          tags: ["Ultimo", "4–4.2 Ah"],
+          image: "assets/5l.jpg"
+        },
+        {
+          title: "12MUX-5L",
+          location: "Ultimo Series",
+          description: "Capacity: 5 Ah | Technology: VRLA | Maintenance-free",
+          tags: ["Ultimo", "5 Ah"],
+          image: "assets/5lb.webp"
+        },
+        {
+          title: "12MUX-7R",
+          location: "Ultimo Series",
+          description: "Capacity: 7 Ah | Technology: VRLA | Maintenance-free",
+          tags: ["Ultimo", "7 Ah"],
+          image: "assets/7r.webp"
+        },
+        {
+          title: "12MUXA-9R",
+          location: "Ultimo Series",
+          description: "Capacity: 8 Ah / 9 Ah | Technology: VRLA | Maintenance-free",
+          tags: ["Ultimo", "8–9 Ah"],
+          image: "assets/9r.webp"
+        },
+        {
+          title: "12MUX-9R",
+          location: "Ultimo Series",
+          description: "Capacity: 9 Ah | Technology: VRLA | Maintenance-free",
+          tags: ["Ultimo", "9 Ah"],
+          image: "assets/9lb.webp"
+        },
+      ],
+      cta: {
+        title: "Looking for Genuine Uno Minda Batteries?",
+        subtitle: "We supply authorised Uno Minda two-wheeler batteries to retailers in Bikaner district.",
+        primary: "Contact Us",
+        secondaryPhone: true
+      }
+    },
 
-    team: {
-      title: "Contact Person",
-      subtitle: "Get in touch with us for wholesale enquiries.",
-      members: [
-        {
-          name: "Shree Karni Kripa Trading",
-          role: "Authorised Distributor",
-          phone: "8319766734"
-        }
-      ]
-    },
+    team: {
+      title: "Contact Person",
+      subtitle: "Get in touch with us for wholesale enquiries.",
+      members: [
+        {
+          name: "Shree Karni Kripa Trading",
+          role: "Authorised Distributor",
+          phone: "8319766734"
+        }
+      ]
+    },
 
-    testimonials: {
-      eyebrow: "",
-      title: "",
-      titleHighlight: "",
-      items: []
-    },
+    testimonials: {
+      eyebrow: "",
+      title: "",
+      titleHighlight: "",
+      items: []
+    },
 
-    faq: {
-      eyebrow: "FAQ",
-      title: "Frequently Asked Questions",
-      subtitle: "Common questions from retailers about Uno Minda batteries and our distribution.",
-      items: [
-        {
-          question: "Are you an authorised Uno Minda distributor?",
-          answer: "Yes, Shree Karni Kripa Trading is an authorised distributor of Uno Minda two-wheeler batteries in Bikaner, Rajasthan."
-        },
-        {
-          question: "Do you sell to individual customers?",
-          answer: "No. We are a wholesale distributor and supply only to retailers and dealers."
-        },
-        {
-          question: "Which area do you cover?",
-          answer: "We are authorised to distribute Uno Minda batteries in Bikaner district, Rajasthan."
-        },
-        {
-          question: "What technology do these batteries use?",
-          answer: "All listed batteries are VRLA (Valve Regulated Lead-Acid) technology – maintenance-free and sealed."
-        },
-        {
-          question: "How can retailers place an order?",
-          answer: "Call or WhatsApp us on 83197 66734. We will assist you with product availability and supply."
-        }
-      ]
-    },
+    faq: {
+      eyebrow: "FAQ",
+      title: "Frequently Asked Questions",
+      subtitle: "Common questions from retailers about Uno Minda batteries and our distribution.",
+      items: [
+        {
+          question: "Are you an authorised Uno Minda distributor?",
+          answer: "Yes, Shree Karni Kripa Trading is an authorised distributor of Uno Minda two-wheeler batteries in Bikaner, Rajasthan."
+        },
+        {
+          question: "Do you sell to individual customers?",
+          answer: "No. We are a wholesale distributor and supply only to retailers and dealers."
+        },
+        {
+          question: "Which area do you cover?",
+          answer: "We are authorised to distribute Uno Minda batteries in Bikaner district, Rajasthan."
+        },
+        {
+          question: "What technology do these batteries use?",
+          answer: "All listed batteries are VRLA (Valve Regulated Lead-Acid) technology – maintenance-free and sealed."
+        },
+        {
+          question: "How can retailers place an order?",
+          answer: "Call or WhatsApp us on 83197 66734. We will assist you with product availability and supply."
+        }
+      ]
+    },
 
-    contact: {
-      title: "Contact Us",
-      subtitle: "Retailers in Bikaner can reach out for genuine Uno Minda two-wheeler batteries.",
-      form: {
-        namePlaceholder: "Business / Shop Name *",
-        phonePlaceholder: "Phone Number *",
-        emailPlaceholder: "Email Address",
-        messagePlaceholder: "Tell us your requirement (models, quantity) *",
-        submit: "Send Enquiry"
-      },
-      addressLabel: "Our Address",
-      phoneLabel: "Call / WhatsApp",
-      mapsLabel: "Find Us",
-      mapsCta: "Get Directions on Google Maps"
-    },
+    contact: {
+      title: "Contact Us",
+      subtitle: "Retailers in Bikaner can reach out for genuine Uno Minda two-wheeler batteries.",
+      form: {
+        namePlaceholder: "Business / Shop Name *",
+        phonePlaceholder: "Phone Number *",
+        emailPlaceholder: "Email Address",
+        messagePlaceholder: "Tell us your requirement (models, quantity) *",
+        submit: "Send Enquiry"
+      },
+      addressLabel: "Our Address",
+      phoneLabel: "Call / WhatsApp",
+      mapsLabel: "Find Us",
+      mapsCta: "Get Directions on Google Maps"
+    },
 
-    footer: {
-      about: "Authorised distributor of Uno Minda two-wheeler batteries in Bikaner, Rajasthan. Supplying genuine VRLA & maintenance-free batteries exclusively to retailers.",
-      quickLinksTitle: "Quick Links",
-      servicesTitle: "Products",
-      contactTitle: "Get In Touch",
-      copyright: "© 2026 Shree Karni Kripa Trading • Authorised Uno Minda Distributor, Bikaner. All Rights Reserved.",
-      designedBy: "Designed by",
-      designedByLink: "https://stellarwebstudio.com/",
-      designedByName: "Stellar Web Studio"
-    }
-  }
+    footer: {
+      about: "Authorised distributor of Uno Minda two-wheeler batteries in Bikaner, Rajasthan. Supplying genuine VRLA & maintenance-free batteries exclusively to retailers.",
+      quickLinksTitle: "Quick Links",
+      servicesTitle: "Products",
+      contactTitle: "Get In Touch",
+      copyright: "© 2026 Shree Karni Kripa Trading • Authorised Uno Minda Distributor, Bikaner. All Rights Reserved.",
+      designedBy: "Designed by",
+      designedByLink: "https://stellarwebstudio.com/",
+      designedByName: "Stellar Web Studio"
+    }
+  }
 };
 
 window.SiteConfig = SiteConfig;
-
 
 
 /* =====================================================
